@@ -5,7 +5,7 @@ const HeroSection = () => {
   return (
     <div className='HeroSection'>
         <div className="overlay"></div>
-        <video src="V.mp4" autoPlay loop muted />
+        <video src="Hero.mp4" autoPlay loop muted />
         <div className="content">
             <h1>Welcome</h1>
             <h2>TO</h2>
