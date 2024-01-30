@@ -68,7 +68,7 @@ const Services = () => {
             <div className="sub-img">
               <img src="vector bk.png" alt="Corporate Videos" />
             </div>
-            <h4>CORPORATE VIDEOS</h4>
+            <h4>MOTION GRAPHICS</h4>
           </div>
         </a>
 
