@@ -7,19 +7,19 @@ export const MenuItems = [
     //icon: "fa-solid fa-house-user"
   },
   {
-    title: "Service",
-    // url: "/",
+    title: "Service  ",
+    url: "/",
     cName: "nav-links",
     dropdown: [
       {
-        title: "Service 1",
+        title: "Ar",
         url: "/service1",
-        cName: "dropdown-link"
+        cName: "dropdown-links"
       },
       {
         title: "Service 2",
         url: "/service2",
-        cName: "dropdown-link"
+        cName: "dropdown-links"
       }
 
     ]
@@ -37,7 +37,7 @@ export const MenuItems = [
     //icon: "fa-solid fa-circle-info"
   },
   {
-    title: "About",
+    title: "About ",
     // url: "/",
     cName: "nav-links",
     dropdown: [
