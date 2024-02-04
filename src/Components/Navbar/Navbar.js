@@ -3,7 +3,7 @@ import "./Navbar.css";
 import { MenuItems } from "./MenuItems";
 import { Link } from "react-router-dom";
 
-class Navbar extends Component {
+class Navbar extends Component {z
   state = {
     clicked: false,
     activeIndex: null, // To track the index of the active dropdown
