@@ -8,25 +8,25 @@ export const MenuItems = [
   },
   {
     title: "Service  ",
-    url: "/",
+   
     cName: "nav-links",
     dropdown: [
       {
         title: "Ar",
         url: "/service1",
-        cName: "dropdown-links"
+        cName: "dropdown-link"
       },
       {
         title: "Service 2",
         url: "/service2",
-        cName: "dropdown-links"
+        cName: "dropdown-link"
       }
 
     ]
   },
   {
     title: "Clients",
-    url: "/",
+    url: "/Page",
     cName: "nav-links",
     //icon: "fa-solid fa-briefcase"
   },
